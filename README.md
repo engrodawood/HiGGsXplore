@@ -8,6 +8,8 @@ gene expression patterns are significantly statistically dependent and covarying
 carry histopathological insights and are clinically relevant in terms of association with survival, pharmaco-sensitivity and therapeutic decision-making. 
 For details descroption please refer to the preprint: [TODO] 
 
-## High Level Concept
+## Concept Diagram
+
+
 
 
