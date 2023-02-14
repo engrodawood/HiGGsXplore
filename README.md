@@ -7,3 +7,7 @@ the expression state of patient using 200 binary variable (topic statuses). Each
 gene expression patterns are significantly statistically dependent and covarying across breast cancer patients. The topic statues are biologically meaningful,
 carry histopathological insights and are clinically relevant in terms of association with survival, pharmaco-sensitivity and therapeutic decision-making. 
 For details descroption please refer to the preprint: [TODO] 
+
+## High Level Concept
+
+
