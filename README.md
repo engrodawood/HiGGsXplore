@@ -10,8 +10,7 @@ For details descroption please refer to the preprint: [TODO]
 
 ## Live Demo (Webserver)
 
-<video width="440px" loop="true" autoplay="true" controls src="https://user-images.githubusercontent.com/13537509/230780719-b6992eda-c824-47d5-9975-6e1336f56516.mp4" >
-</video>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/13537509/230781325-477a60ac-2229-46b5-96f3-6892c6eaf7d6.gif)
 
 
 ## Concept Diagram
