@@ -13,4 +13,4 @@ For details descroption please refer to the preprint: [TODO]
 
 ## Repository Structure
 
-Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph^{∞}
+Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph∞
