@@ -10,8 +10,7 @@ For details descroption please refer to the preprint: [TODO]
 
 ## Live Demo (Webserver)
 
-<video width="440px" loop="true" autoplay="true" controls>
-  <source src="https://user-images.githubusercontent.com/13537509/230780719-b6992eda-c824-47d5-9975-6e1336f56516.mp4" />
+<video width="440px" loop="true" autoplay="true" controls src="https://user-images.githubusercontent.com/13537509/230780719-b6992eda-c824-47d5-9975-6e1336f56516.mp4" >
 </video>
 
 
