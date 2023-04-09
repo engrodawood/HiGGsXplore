@@ -14,3 +14,16 @@ For details descroption please refer to the preprint: [TODO]
 ## Repository Structure
 
 Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph<sup>∞</sup>. 
+
+Step1: Download TCGA BRCA Diagnostic slides from GCD data portal. https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Repository/
+
+Step2: Download tissue segmentation mask from this link: https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing
+
+Step3: Generate patches of each Whole slide image by running: python patches_extraction.py
+
+Step4: Extract ShuffleNet representation from each of the WSI patch by running: python deep_features.py
+
+Step5: Construct WSI-Graph by running: python graph_construction.py
+
+Step6: Training the Graph Neural Network by running python main.py under the model directory
+
