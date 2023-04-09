@@ -9,5 +9,6 @@ carry histopathological insights and are clinically relevant in terms of associa
 For details descroption please refer to the preprint: [TODO] 
 
 ## Concept Diagram
+![image](https://user-images.githubusercontent.com/13537509/230778558-4403a42f-4819-41bf-af2d-53e92f84af05.png)
 
 
