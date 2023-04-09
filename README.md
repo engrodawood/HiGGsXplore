@@ -20,9 +20,9 @@ For details descroption please refer to the preprint: [TODO]
 
 Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph<sup>∞</sup>. 
 
-Step1: Download TCGA BRCA Diagnostic slides from [GCD data portal]:https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Repository/
+Step1: Download TCGA BRCA Diagnostic slides from <a href='https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Repository/'>GCD data portal<\a>
 
-Step2: Download tissue segmentation mask from this [link]:https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing
+Step2: Download tissue segmentation mask from this <a href = https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing> Link<\a>.
 
 Step3: Generate patches of each Whole slide image by running: python patches_extraction.py
 
