@@ -11,4 +11,6 @@ For details descroption please refer to the preprint: [TODO]
 ## Concept Diagram
 ![image](https://user-images.githubusercontent.com/13537509/230778558-4403a42f-4819-41bf-af2d-53e92f84af05.png)
 
+## Repository Structure
 
+Workspace directory contain necessary script for constructing graph and training the proposed ![formula](https://render.githubusercontent.com/render/math?math=SlideGraph^{\infty})
