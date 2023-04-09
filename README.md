@@ -36,3 +36,7 @@ Step5: Construct WSI-Graph by running
 Step6: Training the Graph Neural Network by running
    ```python main.py```
 
+## Gene Group 3 Dashboard
+  ![G3_github](https://user-images.githubusercontent.com/13537509/230782124-521dcd4e-89f1-4adc-9d18-60683353a387.png)
+
+  
