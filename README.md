@@ -40,3 +40,6 @@ Step6: Training the Graph Neural Network by running
   ![G3_github](https://user-images.githubusercontent.com/13537509/230782124-521dcd4e-89f1-4adc-9d18-60683353a387.png)
 
   
+## License
+The source code of SlideGraph<sup>∞</sup> is released under MIT-CC-Non-Commercial license.
+  
