@@ -13,4 +13,4 @@ For details descroption please refer to the preprint: [TODO]
 
 ## Repository Structure
 
-Workspace directory contain necessary script for constructing graph and training the proposed ![formula](https://render.githubusercontent.com/render/math?math=SlideGraph^{\infty})
+Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph^{∞}
