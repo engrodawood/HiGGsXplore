@@ -24,12 +24,15 @@ Step1: Download TCGA BRCA Diagnostic slides from <a href='https://docs.gdc.cance
 
 Step2: Download tissue segmentation mask from this <a href = https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing> Link<\a>.
 
-Step3: Generate patches of each Whole slide image by running:
-  ```python python patches_extraction.py```
+Step3: Generate patches of each Whole slide image by running
+  ```python patches_extraction.py```
 
-Step4: Extract ShuffleNet representation from each of the WSI patch by running: python deep_features.py
+Step4: Extract ShuffleNet representation from each of the WSI patch by running
+   ```python deep_features.py```
 
-Step5: Construct WSI-Graph by running: python graph_construction.py
+Step5: Construct WSI-Graph by running
+   ```python graph_construction.py```
 
-Step6: Training the Graph Neural Network by running python main.py under the model directory
+Step6: Training the Graph Neural Network by running
+   ```python main.py```
 
