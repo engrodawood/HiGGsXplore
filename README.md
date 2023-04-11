@@ -8,7 +8,7 @@ gene expression patterns are significantly statistically dependent and covarying
 carry histopathological insights and are clinically relevant in terms of association with survival, pharmaco-sensitivity and therapeutic decision-making. 
 For details descroption please refer to the preprint: [TODO] 
 
-## Live Demo (<a href='https://tiademos.dcs.warwick.ac.uk/bokeh_app?demo=HiGGsXplore'>Webserver<\a>) 
+## Live Demo (<a href='https://tiademos.dcs.warwick.ac.uk/bokeh_app?demo=HiGGsXplore'>Webserver</a>) 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/13537509/230781325-477a60ac-2229-46b5-96f3-6892c6eaf7d6.gif)
 
@@ -20,9 +20,9 @@ For details descroption please refer to the preprint: [TODO]
 
 Workspace directory contain necessary script for constructing graph and training the proposed SlideGraph<sup>∞</sup>. 
 
-Step1: Download TCGA BRCA Diagnostic slides from <a href='https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Repository/'>GCD data portal<\a>
+Step1: Download TCGA BRCA Diagnostic slides from <a href='https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Repository/'>GCD data portal</a>
 
-Step2: Download tissue segmentation mask from this <a href = https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing> Link<\a>.
+Step2: Download tissue segmentation mask from this <a href = https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing> Link</a>.
 
 Step3: Generate patches of each Whole slide image by running
   ```python patches_extraction.py```
