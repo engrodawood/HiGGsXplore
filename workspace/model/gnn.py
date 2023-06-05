@@ -118,8 +118,9 @@ class GNN(torch.nn.Module):
         import torch.nn.functional as F
         for layer in range(self.no_layers):
             if layer == 0:
+                # Uncomment this line and use smaller size for node level features if you are 
+                # facing GPU memory problem. 
                 #x = self.first_h(x)
-                # import pdb; pdb.set_trace()
                 z = self.linears[layer](x)
                 Z += z
                 dout = F.dropout(pooling(z, batch),
