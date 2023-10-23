@@ -1,5 +1,5 @@
-# Histology Gene Groups Xplorer(HiGGsXplore)
-
+# Histology Gene Groups Xplorer(HiGGsXplore) 
+### Cite the code: [![DOI](https://zenodo.org/badge/601624075.svg)](https://zenodo.org/doi/10.5281/zenodo.10033521)
 ## Summary
 HiGGsXplore is a computational pathology pipleine that provide insight into patient gene expression state form digitized images of H&E stained tissue section.
 The framework take a Whole Slide Image (WSI) as input and generate a WSI-Graph. The WSI-Graph is then passed as input to a Graph neural network which predict
