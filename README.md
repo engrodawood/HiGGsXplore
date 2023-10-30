@@ -36,6 +36,11 @@ Step5: Construct WSI-Graph by running
 Step6: Training the Graph Neural Network by running
    ```python main.py```
 
+## Running Inference on CPTAC Cohort
+Step1: Download WSIs of patients in CPTAC-BRCA cohort from <a href = "[https://drive.google.com/file/d/1nvGyMm33gl-iYlVEziM_RjpL1c61ApXv/view?usp=sharing](https://pathdb.cancerimagingarchive.net/imagesearch?f[0]=collection:cptac_brca)"> CANCR IMAGING ARCHIVE</a>.
+Step2: Use the same patch-extraction and feature-extraction pipeline and construct graph representation.
+Step3: Run the Inference. 
+
 ## Gene Group 3 Dashboard
   ![G3_github](https://user-images.githubusercontent.com/13537509/230782124-521dcd4e-89f1-4adc-9d18-60683353a387.png)
 
