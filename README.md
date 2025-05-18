@@ -53,5 +53,14 @@ The source code of SlideGraph<sup>∞</sup> is released under MIT license.
 
 ## Cite this repo
 
-<pre> ```bibtex @article{dawood2023cross, title={Cross-linking breast tumor transcriptomic states and tissue histology}, author={Dawood, Muhammad and Eastwood, Mark and Jahanifar, Mostafa and Young, Lawrence and Ben-Hur, Asa and Branson, Kim and Jones, Louise and Rajpoot, Nasir and others}, journal={Cell Reports Medicine}, volume={4}, number={12}, year={2023}, publisher={Elsevier} } ``` </pre>
+<pre> @article{
+  dawood2023cross,
+  title={Cross-linking breast tumor transcriptomic states and tissue histology},
+  author={Dawood, Muhammad and Eastwood, Mark and Jahanifar, Mostafa and Young, Lawrence and Ben-Hur, Asa and Branson, Kim and Jones, Louise and Rajpoot, Nasir and others},
+  journal={Cell Reports Medicine},
+  volume={4},
+  number={12},
+  year={2023},
+  publisher={Elsevier}
+  } </pre>
 
