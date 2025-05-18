@@ -62,3 +62,4 @@ The source code of SlideGraph<sup>∞</sup> is released under MIT license.
   year={2023},
   publisher={Elsevier}
 }
+
