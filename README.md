@@ -56,7 +56,7 @@ The source code of SlideGraph<sup>∞</sup> is released under MIT license.
 <pre> @article{
   dawood2023cross,
   title={Cross-linking breast tumor transcriptomic states and tissue histology},
-  author={Dawood, Muhammad and Eastwood, Mark and Jahanifar, Mostafa and Young, Lawrence and Ben-Hur, Asa and Branson, Kim and Jones, Louise and Rajpoot, Nasir and others},
+  author={Dawood, Muhammad and Eastwood, Mark and Jahanifar, Mostafa and Young, Lawrence and Ben-Hur, Asa and Branson, Kim and Jones, Louise and Rajpoot, Nasir and Fayyaz, Minhas},
   journal={Cell Reports Medicine},
   volume={4},
   number={12},
